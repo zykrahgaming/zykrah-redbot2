@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Redjumpman",
+    "SHORT" : "Can roll multiple die and outputs to a table",
+    "DESCRIPTION" : "Ouputs each roll number, result, modifier, and total in a table.",
+    "DISABLED" : false,
+    "NAME" : "Dicetable",
+    "REQUIREMENTS": ["tabulate"],
+    "TAGS" : ["dnd", "dice", "rpg"],
+    "INSTALL_MSG" : "Thank you for installing Dice Table from Jumper Cogs.\nIf you like my cog please star my repo or post any issues on my github here:\nhttps://github.com/Redjumpman/Jumper-Cogs"
+}

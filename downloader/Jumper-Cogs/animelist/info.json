@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Redjumpman",
+    "SHORT" : "Provides anime & manga info",
+    "DESCRIPTION" : "Can search for anime and manga and return info on that series",
+    "DISABLED" : false,
+    "NAME" : "Animelist",
+    "TAGS" : ["anime", "manga"],
+    "INSTALL_MSG" : "Thank you for installing Anime List from Jumper Cogs.\nIf you like my cog please star my repo or post any issues on my github here:\nhttps://github.com/Redjumpman/Jumper-Cogs"
+}
